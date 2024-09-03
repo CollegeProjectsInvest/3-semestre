@@ -74,7 +74,7 @@ public class Aula2 {
         while (true) {
             System.out.println("Digite uma tentativa:");
             int tentativa = scanner.nextInt();
-
+£
             numeroTentativas++;
 
             if (numeroTentativas >= 10) {
