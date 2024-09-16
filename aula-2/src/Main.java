@@ -50,9 +50,10 @@ public class Main {
         */
 
         // HashMap
-        // { "chave": "valor", "chave": "valor" }
+//         { "chave": "valor", "chave": "valor" }
         // var meuHashMap2 = new HashMap<String, String>();
         /*
+
         HashMap<String, String> meuHashMap = new HashMap<>();
         // Adicionando
         meuHashMap.put("chave1", "valor1");
@@ -85,8 +86,5 @@ public class Main {
             System.out.println(chave);
         }
         */
-
-
-
     }
 }
